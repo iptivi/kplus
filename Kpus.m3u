@@ -126,7 +126,16 @@ https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/13.m3u8
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/15.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ SPORT2" tvg-logo="https://meco.mytv.vn/static/channel/140.png?ver=15" group-title="🟣 K+",K+ SPORT2 ClipTV
 https://stream.sugustv.tk:443/live/2E07839D24B4C586D36B176D48B4F648/16.m3u8
-
+ 
+ ==================
+#EXTINF:-1 group-title="Kplus" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kplushd/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:knshd/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg",K+Sport1 HD
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpcmyhd/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD
+http://106bec9d8.vws.vegacdn.vn/cliptv_live/amlst:kpchd/chunklist_b3128000.m3u8
 
 ===========================
 
